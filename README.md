@@ -5,10 +5,15 @@ Created a rock paper and scissor game using Tkinter. Rock paper scissor is a han
 Let there be a Player who is playing with a computer as an opponent. Now,
 
 If the player selects Paper and Computer Selects Scissor – Computer wins
-If the player selects Rock and Computer Selects Scissor – Player 1 wins
-If the player selects Paper and Computer Selects Rock – Player 1 wins
+
+If the player selects Rock and Computer Selects Scissor – Player wins
+
+If the player selects Paper and Computer Selects Rock – Player wins
+
 And If the player selects Paper and Computer Selects Paper – Draw
+
 If the player selects Rock and Computer Selects Rock – Draw
+
 If the player selects Scissor and Computer Selects Scissor – Draw
 
 **Tools and Technologies Used**
