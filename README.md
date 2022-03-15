@@ -22,3 +22,7 @@ Let there be a Player who is playing with a computer as an opponent. Now,
 **Random**: Python defines a set of functions that are used to generate or manipulate random numbers through the random module.
 
 **PIL**: Python Imaging Library (expansion of PIL) is the de facto image processing package for Python language. It incorporates lightweight image processing tools that aids in editing, creating and saving images.
+
+![Screenshot (669)](https://user-images.githubusercontent.com/81741487/158326473-85e24934-7fd0-4e14-8834-939749fb95ad.png)
+
+To directly play the the game just put all the images and main.exe file in same folder and run main.exe
